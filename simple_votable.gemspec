@@ -7,5 +7,5 @@ Gem::Specification.new do |s|
   s.authors = ['Piotr Klosinski']
   s.email = 'piotr@webdeveloperfromscratch.com'
   s.files = ['lib/simple_votable.rb']
-  s.homepage = 'http://github.com'
+  s.homepage = 'http://github.com/WebDevFromScratch/simple_votable'
 end
